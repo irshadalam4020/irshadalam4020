@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**irshadalam4020/irshadalam4020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Irshad Alam 👋
 
-Here are some ideas to get you started:
+🎓 Student passionate about technology & development  
+💻 Learning HTML, CSS, JavaScript & Python  
+🚀 Building small projects to improve skills  
+📍 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- VS Code
+
+## 📌 Featured Projects
+- # Animation 
+- Animation link :- https://irshadalam4020.github.io/Animation/
+  
+- # Tic Tac Toe Game 
+- Tic Tac Toe Game link :-  https://irshadalam4020.github.io/Tic-Tac-Toe/
+
+- ## link
+   # instagram
+- instagram link :- https://www.instagram.com/irshad_s_alam?igsh=dm1xMmlkMDMyZWUw
