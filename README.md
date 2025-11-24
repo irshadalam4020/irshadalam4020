@@ -22,3 +22,6 @@
 - ## link
    # instagram
 - instagram link :- https://www.instagram.com/irshad_s_alam?igsh=dm1xMmlkMDMyZWUw
+   # facebook
+  facebook link :- https://www.facebook.com/share/17SjEN3Lot/
+  
